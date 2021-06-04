@@ -14,5 +14,5 @@ class Paper {
 
         World.add(world, this.body);
     }
-  
+}
  
