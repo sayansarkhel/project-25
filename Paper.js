@@ -9,10 +9,6 @@ class Paper {
           this . image = loadImage("sprites/paper.png");
 
         
-        this.body = Bodies.circle(x,y,radius, options);
-        this.radius = radius
-
-        World.add(world, this.body);
     }
 }
  
